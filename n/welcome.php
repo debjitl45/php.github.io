@@ -1,3 +1,6 @@
+<head>
+<a href="details.php">Create!!</a>
+</head>
 <link rel="stylesheet" type="text/css" href="style.css">
 <?php session_start(); ?>
 <div class="body content">
